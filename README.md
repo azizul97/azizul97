@@ -24,7 +24,7 @@ Skills: [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react,latex,
 
 ---
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/your-username) 
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/azizul-hakim97) 
 🔁 Always learning, building, and improving.
 
 
