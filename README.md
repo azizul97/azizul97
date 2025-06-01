@@ -7,7 +7,9 @@
 
 ---
 
-Skills:    [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react,latex,pycharm,vscode,vercel,figma&theme=light)](https://skillicons.dev)
+Skills:   
+
+   [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,react,latex,pycharm,vscode,vercel,figma&theme=light)](https://skillicons.dev)
 
 ### 🔧 Technologies I work with
 - Frontend: `HTML` `CSS` `Tailwind` `Bootstrap` `JavaScript` `React` *(soon!)*
