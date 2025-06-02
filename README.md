@@ -1,7 +1,7 @@
 ![github Banner](https://github.com/user-attachments/assets/41cb9dea-7475-4db2-9b1c-e84334c6967d)
 # 👋 Hi, I’m Azizul
 
-🎯 I build sleek, responsive websites using **HTML**, **CSS**, **Tailwind**, and **JavaScript**, and I'm learning to power them with **Python (Flask)** and RESTful APIs.
+🎯 I build sleek, responsive websites using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**, and I'm learning to power them with **Python (Flask)** and RESTful APIs.
 
 🧠 I'm also passionate about integrating **AI tools** into my workflow to build smarter, more dynamic applications.
 
