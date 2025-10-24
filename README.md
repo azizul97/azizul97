@@ -14,7 +14,7 @@ Skills:
 ### 🔧 Technologies I work with
 - Frontend: `HTML` `CSS` `Tailwind` `Bootstrap` `JavaScript` `React` *(soon!)*
 - Backend: `Python` `Django` 
-- Tools: `Git` `GitHub` `VS Code` `Vercel` 
+- Tools: `Git`, `GitHub`, `VS Code`, `Pycharm`, `Vercel` 
 
 ---
 
